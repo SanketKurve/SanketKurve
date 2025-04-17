@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 
 - 🌱 I’m currently learning **Full Stack Development, DSA & OOP**
 
-- 👨‍💻 All of my projects are available at [My GitHub Repositories](https://github.com/sanket200511)
+- 👨‍💻 All of my projects are available at [My GitHub Repositories](https://github.com/SanketKurve)
 
 - 📫 How to reach me: **sanketkurve.2005@gmail.com**
 
