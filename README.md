@@ -21,22 +21,19 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on **Python Projects, Web Development, and Open Source Contributions**
 
-- 🌱 I’m currently learning **Full Stack Development, Cloud Technologies & DevOps**
+- 🌱 I’m currently learning **Full Stack Development, DSA & OOP**
 
 - 👨‍💻 All of my projects are available at [My GitHub Repositories](https://github.com/sanket200511)
 
-- 📫 How to reach me: **sanketkurve2005@gmail.com**
+- 📫 How to reach me: **sanketkurve.2005@gmail.com**
 
-- 💬 Ask me about **Python, APIs, Frontend Development, Git, and Open Source**
+- 💬 Ask me about **Python, Django, NodeJs, ExpressJs, React, APIs111, Git, and Open Source**
 
 - ⚡ Fun fact: **I love building things that help people and automate daily life!**
 
 ---
 ### 🚀 Tech Stack
 
-![C](https://img.shields.io/badge/-C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=c%2b%2b&logoColor=white)
-![Java](https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=java&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Django](https://img.shields.io/badge/-Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 ![Flask](https://img.shields.io/badge/-Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
@@ -49,23 +46,22 @@ Here are some ideas to get you started:
 ![React](https://img.shields.io/badge/-React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/-Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![OpenShift](https://img.shields.io/badge/-OpenShift-EE0000?style=for-the-badge&logo=red-hat-open-shift&logoColor=white)
 
 
-### 🛠️ Languages and Tools
+### 🛠️ Languages
 
 <p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40" />
 </p>
+
 
 ---
 
